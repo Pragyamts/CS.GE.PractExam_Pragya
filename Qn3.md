@@ -9,7 +9,7 @@
 		<hr>
 		<h1 > home page first page  </h1>
 		<ol type="I">
-			<li><a href="Q1.html"> Take me to page 2 </a> </li>
+			<li><a href="Q1.md"> Take me to page 2 </a> </li>
 			<li><a href="p3.html"> Take me to page 3 table </a> </li>
 			<li><a href="p4.html"> Take me to page 4 Simple Form </a> </li>
 
