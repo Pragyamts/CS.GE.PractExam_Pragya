@@ -33,7 +33,7 @@ hr.new{border : 3px solid red}
 <li><a href="#ii">Inserting image</a></li>
 </ol><br>
 <h3>5. External link</h3>
-<a href="https://m.youtube.com">Youtube</a>
+<a href="https://www.google.com">Youtube</a>
 <BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
 </body>
 </html>
